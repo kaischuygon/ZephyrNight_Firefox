@@ -1,0 +1,41 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Zephyr Night",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(28, 44, 80)",
+      "toolbar_text": "rgb(0, 217, 255)",
+      "frame": "rgb(14, 22, 40)",
+      "tab_background_text": "rgb(255, 0, 115)",
+      "toolbar_field": "rgb(14, 22, 40)",
+      "toolbar_field_text": "rgb(228, 232, 241)",
+      "tab_line": "rgb(0, 217, 255)",
+      "popup": "rgb(14, 22, 40)",
+      "popup_text": "rgb(0, 217, 255)",
+      "button_background_active": "rgb(255, 0, 115)",
+      "button_background_hover": "rgb(0, 85, 255)",
+      "frame_inactive": "rgb(28, 44, 80)",
+      "icons": "rgb(255, 191, 0)",
+      "ntp_background": "rgb(14, 22, 40)",
+      "ntp_text": "rgb(228, 232, 241)",
+      "popup_border": "rgb(0, 85, 255)",
+      "popup_highlight_text": "rgb(14, 22, 40)",
+      "popup_highlight": "rgb(255, 0, 115)",
+      "tab_loading": "rgb(0, 217, 255)"
+    }
+  }
+}
